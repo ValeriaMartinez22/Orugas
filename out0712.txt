@@ -1,0 +1,180 @@
+Dagor: Framework para juegos de estrategia, versión 1.0.3
+Licencia GPLv3. © 2016, 2022 por Ariel Ortiz, Tecnológico de Monterrey, Estado de México.
+
+JuegoOrugas
+===========
+2022-12-02 01:05:11 UTC
+Computadora: 192.168.1.6
+Jugador 1: Equipo7 (alias 'B') [JugadorOrugasEquipo7]
+Jugador 2: RandomBoy (alias 'N') [JugadorOrugasAleatorio]
+
+
+RESUMEN DEL ENCUENTRO
+---------------------------------------------------------------------
+Juegos jugados: 100
+Juegos ganados por Equipo7 (alias 'B') [JugadorOrugasEquipo7]: 96
+Juegos ganados por RandomBoy (alias 'N') [JugadorOrugasAleatorio]: 4
+Juegos empatados: 0
+---------------------------------------------------------------------
+Dagor: Framework para juegos de estrategia, versión 1.0.3
+Licencia GPLv3. © 2016, 2022 por Ariel Ortiz, Tecnológico de Monterrey, Estado de México.
+
+JuegoOrugas
+===========
+2022-12-02 01:06:34 UTC
+Computadora: 192.168.1.6
+Jugador 1: Equipo7 (alias 'B') [JugadorOrugasEquipo7]
+Jugador 2: RandomBoy (alias 'N') [JugadorOrugasAleatorio]
+
+
+RESUMEN DEL ENCUENTRO
+---------------------------------------------------------------------
+Juegos jugados: 100
+Juegos ganados por Equipo7 (alias 'B') [JugadorOrugasEquipo7]: 98
+Juegos ganados por RandomBoy (alias 'N') [JugadorOrugasAleatorio]: 2
+Juegos empatados: 0
+---------------------------------------------------------------------
+Dagor: Framework para juegos de estrategia, versión 1.0.3
+Licencia GPLv3. © 2016, 2022 por Ariel Ortiz, Tecnológico de Monterrey, Estado de México.
+
+JuegoOrugas
+===========
+2022-12-02 01:07:59 UTC
+Computadora: 192.168.1.6
+Jugador 1: Equipo7 (alias 'B') [JugadorOrugasEquipo7]
+Jugador 2: RandomBoy (alias 'N') [JugadorOrugasAleatorio]
+
+
+RESUMEN DEL ENCUENTRO
+---------------------------------------------------------------------
+Juegos jugados: 100
+Juegos ganados por Equipo7 (alias 'B') [JugadorOrugasEquipo7]: 97
+Juegos ganados por RandomBoy (alias 'N') [JugadorOrugasAleatorio]: 3
+Juegos empatados: 0
+---------------------------------------------------------------------
+Dagor: Framework para juegos de estrategia, versión 1.0.3
+Licencia GPLv3. © 2016, 2022 por Ariel Ortiz, Tecnológico de Monterrey, Estado de México.
+
+JuegoOrugas
+===========
+2022-12-02 01:09:25 UTC
+Computadora: 192.168.1.6
+Jugador 1: Equipo7 (alias 'B') [JugadorOrugasEquipo7]
+Jugador 2: RandomBoy (alias 'N') [JugadorOrugasAleatorio]
+
+
+RESUMEN DEL ENCUENTRO
+---------------------------------------------------------------------
+Juegos jugados: 100
+Juegos ganados por Equipo7 (alias 'B') [JugadorOrugasEquipo7]: 93
+Juegos ganados por RandomBoy (alias 'N') [JugadorOrugasAleatorio]: 7
+Juegos empatados: 0
+---------------------------------------------------------------------
+Dagor: Framework para juegos de estrategia, versión 1.0.3
+Licencia GPLv3. © 2016, 2022 por Ariel Ortiz, Tecnológico de Monterrey, Estado de México.
+
+JuegoOrugas
+===========
+2022-12-02 01:10:51 UTC
+Computadora: 192.168.1.6
+Jugador 1: Equipo7 (alias 'B') [JugadorOrugasEquipo7]
+Jugador 2: RandomBoy (alias 'N') [JugadorOrugasAleatorio]
+
+
+RESUMEN DEL ENCUENTRO
+---------------------------------------------------------------------
+Juegos jugados: 100
+Juegos ganados por Equipo7 (alias 'B') [JugadorOrugasEquipo7]: 94
+Juegos ganados por RandomBoy (alias 'N') [JugadorOrugasAleatorio]: 6
+Juegos empatados: 0
+---------------------------------------------------------------------
+Dagor: Framework para juegos de estrategia, versión 1.0.3
+Licencia GPLv3. © 2016, 2022 por Ariel Ortiz, Tecnológico de Monterrey, Estado de México.
+
+JuegoOrugas
+===========
+2022-12-02 01:12:16 UTC
+Computadora: 192.168.1.6
+Jugador 1: Equipo7 (alias 'B') [JugadorOrugasEquipo7]
+Jugador 2: RandomBoy (alias 'N') [JugadorOrugasAleatorio]
+
+
+RESUMEN DEL ENCUENTRO
+---------------------------------------------------------------------
+Juegos jugados: 100
+Juegos ganados por Equipo7 (alias 'B') [JugadorOrugasEquipo7]: 93
+Juegos ganados por RandomBoy (alias 'N') [JugadorOrugasAleatorio]: 7
+Juegos empatados: 0
+---------------------------------------------------------------------
+Dagor: Framework para juegos de estrategia, versión 1.0.3
+Licencia GPLv3. © 2016, 2022 por Ariel Ortiz, Tecnológico de Monterrey, Estado de México.
+
+JuegoOrugas
+===========
+2022-12-02 01:13:42 UTC
+Computadora: 192.168.1.6
+Jugador 1: Equipo7 (alias 'B') [JugadorOrugasEquipo7]
+Jugador 2: RandomBoy (alias 'N') [JugadorOrugasAleatorio]
+
+
+RESUMEN DEL ENCUENTRO
+---------------------------------------------------------------------
+Juegos jugados: 100
+Juegos ganados por Equipo7 (alias 'B') [JugadorOrugasEquipo7]: 98
+Juegos ganados por RandomBoy (alias 'N') [JugadorOrugasAleatorio]: 2
+Juegos empatados: 0
+---------------------------------------------------------------------
+Dagor: Framework para juegos de estrategia, versión 1.0.3
+Licencia GPLv3. © 2016, 2022 por Ariel Ortiz, Tecnológico de Monterrey, Estado de México.
+
+JuegoOrugas
+===========
+2022-12-02 01:15:09 UTC
+Computadora: 192.168.1.6
+Jugador 1: Equipo7 (alias 'B') [JugadorOrugasEquipo7]
+Jugador 2: RandomBoy (alias 'N') [JugadorOrugasAleatorio]
+
+
+RESUMEN DEL ENCUENTRO
+---------------------------------------------------------------------
+Juegos jugados: 100
+Juegos ganados por Equipo7 (alias 'B') [JugadorOrugasEquipo7]: 95
+Juegos ganados por RandomBoy (alias 'N') [JugadorOrugasAleatorio]: 5
+Juegos empatados: 0
+---------------------------------------------------------------------
+Dagor: Framework para juegos de estrategia, versión 1.0.3
+Licencia GPLv3. © 2016, 2022 por Ariel Ortiz, Tecnológico de Monterrey, Estado de México.
+
+JuegoOrugas
+===========
+2022-12-02 01:16:35 UTC
+Computadora: 192.168.1.6
+Jugador 1: Equipo7 (alias 'B') [JugadorOrugasEquipo7]
+Jugador 2: RandomBoy (alias 'N') [JugadorOrugasAleatorio]
+
+
+RESUMEN DEL ENCUENTRO
+---------------------------------------------------------------------
+Juegos jugados: 100
+Juegos ganados por Equipo7 (alias 'B') [JugadorOrugasEquipo7]: 99
+Juegos ganados por RandomBoy (alias 'N') [JugadorOrugasAleatorio]: 1
+Juegos empatados: 0
+---------------------------------------------------------------------
+Dagor: Framework para juegos de estrategia, versión 1.0.3
+Licencia GPLv3. © 2016, 2022 por Ariel Ortiz, Tecnológico de Monterrey, Estado de México.
+
+JuegoOrugas
+===========
+2022-12-02 01:18:01 UTC
+Computadora: 192.168.1.6
+Jugador 1: Equipo7 (alias 'B') [JugadorOrugasEquipo7]
+Jugador 2: RandomBoy (alias 'N') [JugadorOrugasAleatorio]
+
+
+RESUMEN DEL ENCUENTRO
+---------------------------------------------------------------------
+Juegos jugados: 100
+Juegos ganados por Equipo7 (alias 'B') [JugadorOrugasEquipo7]: 96
+Juegos ganados por RandomBoy (alias 'N') [JugadorOrugasAleatorio]: 4
+Juegos empatados: 0
+---------------------------------------------------------------------
